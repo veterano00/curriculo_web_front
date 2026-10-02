@@ -1,0 +1,37 @@
+body {
+    background-color: #edf6fa;
+    color: #222222;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titulo {
+    font-family: "Markazi Text", Georgia, serif;
+    font-weight: bold;
+    background-color: #285f85;
+    color: #ffffff;
+}
+
+#nome {
+    font-size: 200%;
+    background-color: #edf6fa;
+    color: #174a7e;
+    text-align: center;
+    text-decoration: underline;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+a {
+    color: #174a7e;
+    text-decoration: underline;
+}
+
+a[href="https://github.com/veterano00"] {
+    font-weight: bold;
+}
+
+a:hover {
+    color: #8b2500;
+}
